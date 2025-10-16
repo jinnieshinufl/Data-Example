@@ -49,16 +49,6 @@ python scripts/example.py
 - notebooks/example_analysis.ipynb — walkthrough of cleaning and plotting a sample dataset
 - scripts/convert_csv_to_json.py — small utility to convert CSV files to JSON
 
-## Contributing
-
-Contributions are welcome. Please open issues to discuss changes and submit pull requests with clear descriptions of the work.
-
-## License
-
-This project is provided under the MIT License. See LICENSE for details, or add one if you need a different license.
-
 ## Contact
 
 Maintainer: @jinnieshinufl
-
-If you'd like the README tailored (project-specific instructions, badges, CI setup, example outputs, or a different license), tell me what you'd like and I will update it.
